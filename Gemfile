@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "rspec"
+gem 'rspec', '~> 3.8'
 gem "sinatra"
 
 group :development do
